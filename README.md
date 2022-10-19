@@ -1,5 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
+<img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200px" height="200px"/>
+
 # Sup guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 I'm a CS student at the University of Illinois at Chicago! #GoFlames
