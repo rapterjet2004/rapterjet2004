@@ -3,7 +3,14 @@
 # Sup guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 I'm a CS student at the University of Illinois at Chicago! #GoFlames
- 
+
+<ul>
+<li> 👨🏾‍💻 Aspiring dev </li>
+<li> 🏞️ Loves the outdoors </li>
+<li> 🚲 Loves biking </li>
+<li> 🧖🏽‍♂️ Hot tub addict </li>
+<li> 🕶️ Hates light mode </li>
+</ul>
 
 ## &#x1f4c8; GitHub Stats
 
