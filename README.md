@@ -18,7 +18,7 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames
 
 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Julius' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=BD3C2B&bg_color=541911" alt="Julius' GitHub Stats" />
  </a>
 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
@@ -28,13 +28,13 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames
 <h4>Check out my newest project!</h4>
 
 <a href="https://github.com/rapterjet2004/Handwriting-recognition-and-correction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rapterjet2004&repo=Handwriting-recognition-and-correction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rapterjet2004&repo=Handwriting-recognition-and-correction&title_color=ffffff&text_color=c9cacc&icon_color=2BA0BD&bg_color=0F3347" />
 </a>
 
 <h4>What I'm currently working on!</h4>
 
 <a href="https://github.com/acm-uic/flourish-2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-uic&repo=flourish-2023&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-uic&repo=flourish-2023&title_color=ffffff&text_color=c9cacc&icon_color=F0DC05&bg_color=694D1D" />
 </a>    
 
 <!-- links to social media icons -->
