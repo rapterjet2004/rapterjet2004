@@ -23,18 +23,6 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapterjet2004&hide=java,html,tex&theme=gruvbox&langs_count=3" />
 </a>
 
-<h4>Check out my newest project!</h4>
-
-<a href="https://github.com/rapterjet2004/Handwriting-recognition-and-correction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rapterjet2004&repo=Handwriting-recognition-and-correction&theme=gruvbox" />
-</a>
-
-<h4>What I'm currently working on!</h4>
-
-<a href="https://github.com/acm-uic/flourish-2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-uic&repo=flourish-2023&theme=gruvbox" />
-</a>    
-
 # Theme: Fall🍁🌙🥧🍂☕️🕯
 <img src="https://images.pexels.com/photos/1438248/pexels-photo-1438248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="1000px" height="500px"/>
 
