@@ -12,9 +12,6 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames
 <li> 🕶️ Hates light mode </li>
 </ul>
 
-## &#x1f4c8; GitHub Stats
-
-
 <a href="https://github.com/rapterjet2004/rapterjet2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Julius' GitHub Stats" />
  </a>
