@@ -1,7 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<img src="https://images.pexels.com/photos/1438248/pexels-photo-1438248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="800px" height="400px"/>
-
 # Sup guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 I'm a CS student at the University of Illinois at Chicago! #GoFlames
@@ -36,6 +34,9 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames
 <a href="https://github.com/acm-uic/flourish-2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-uic&repo=flourish-2023&theme=gruvbox" />
 </a>    
+
+# Theme: Fall🍁🌙🥧🍂☕️🕯
+<img src="https://images.pexels.com/photos/1438248/pexels-photo-1438248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="1000px" height="500px"/>
 
 <!-- links to social media icons -->
 
