@@ -7,7 +7,7 @@
 
 # Sup guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I'm a CS student at the University of Illinois at Chicago! #GoFlames
-<img src="https://media4.giphy.com/media/bB3FrjpQ3w8ms/giphy.gif?cid=790b7611b9f46330bdeb3db9cc09f05b65cf9a50ca352ce2&rid=giphy.gif&ct=g" align="right"/>
+<img src="https://media4.giphy.com/media/bB3FrjpQ3w8ms/giphy.gif?cid=790b7611b9f46330bdeb3db9cc09f05b65cf9a50ca352ce2&rid=giphy.gif&ct=g" align="right" width="40%"/>
 <ul>
 <li> 👨🏾‍💻 Aspiring dev </li>
 <li> 🏞️ Loves the outdoors </li>
@@ -17,7 +17,7 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames
 </ul>
 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
-  <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=gruvbox&width=400" alt="Julius' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Julius' GitHub Stats" />
  </a>
 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
