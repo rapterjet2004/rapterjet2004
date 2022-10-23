@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-| It's  | Spooky | Season  | 🎃🎃🎃 |
+| I̴̠̥̺̱͓̗̿̅͑̿̈́̆t̵̼̜̖͚̞̗͕͌͐̀͂̄͆̈́'̴͑̐͒͑͒̾̈́̎͘ͅș̴͈̣͕͖̺̞͍̮͑ ̸̖̥̤̝̳͎͆̌̑͐̐̋̊͜͜͝ | Ś̴̮͓̈͊͗̏͝p̷̢̹͈̦̠̰̣̮̆̉̇͜o̸͇̊͋̃̐ǒ̴̡̨̜̼̘̤͈̟̍̓̆͝͠ͅk̸̛̖̯̫̝̫̜̞͎̈́̏̈́͗́͜y̸̛͍̹̹̪͔̩̠͗̉ ̵̪̞̻̟̫͉̘̭̈́̐̓͌͆́̂̊͂̕ | S̶̛̻̪̳̣͕͈̰e̷̻̤̗̳͗̐̌̔̓̊͝a̸̹͚̝̲͔̬̲̓̉͒̎̚͘ș̷̨̡̲̻̗̄̃̔͂̐̒̈́̎̀͘o̸̳̲͎̫͎͓̅͌ǹ̸͈̽͛̃̃̈́͘͝   | 🎃🎃🎃 |
 | ------------- | ------------- |------------- | ------------- |  
 | <img src="https://i.giphy.com/media/xT9Igm20xOYIbRLlpC/giphy.webp" width="200" height="200"/> | <img src="https://i.giphy.com/media/irJtz7zzKCThmBPtIO/giphy.webp" width="200" height="200"/> | <img src="https://media3.giphy.com/media/Kq21KceJoQXCTP6imf/giphy.gif?cid=790b76111bc2910cdfb43eca92617e9ce8b0cbfd050da6c7&rid=giphy.gif&ct=g" width="200" height="200"/> | <img src="https://media4.giphy.com/media/y9elD4gy1ToWRjrOrW/giphy.gif?cid=790b7611124ff40bc725b9f87d5563cf427f38458e933f37&rid=giphy.gif&ct=g" width="200" height="200"/>
 
