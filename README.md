@@ -1,31 +1,20 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-| I̴̠̥̺̱͓̗̿̅͑̿̈́̆t̵̼̜̖͚̞̗͕͌͐̀͂̄͆̈́'̴͑̐͒͑͒̾̈́̎͘ͅș̴͈̣͕͖̺̞͍̮͑ ̸̖̥̤̝̳͎͆̌̑͐̐̋̊͜͜͝ | Ś̴̮͓̈͊͗̏͝p̷̢̹͈̦̠̰̣̮̆̉̇͜o̸͇̊͋̃̐ǒ̴̡̨̜̼̘̤͈̟̍̓̆͝͠ͅk̸̛̖̯̫̝̫̜̞͎̈́̏̈́͗́͜y̸̛͍̹̹̪͔̩̠͗̉ ̵̪̞̻̟̫͉̘̭̈́̐̓͌͆́̂̊͂̕ | S̶̛̻̪̳̣͕͈̰e̷̻̤̗̳͗̐̌̔̓̊͝a̸̹͚̝̲͔̬̲̓̉͒̎̚͘ș̷̨̡̲̻̗̄̃̔͂̐̒̈́̎̀͘o̸̳̲͎̫͎͓̅͌ǹ̸͈̽͛̃̃̈́͘͝   | 🎃🎃🎃 |
-| ------------- | ------------- |------------- | ------------- |  
-| <img src="https://i.giphy.com/media/xT9Igm20xOYIbRLlpC/giphy.webp" width="200" height="200"/> | <img src="https://i.giphy.com/media/irJtz7zzKCThmBPtIO/giphy.webp" width="200" height="200"/> | <img src="https://media3.giphy.com/media/Kq21KceJoQXCTP6imf/giphy.gif?cid=790b76111bc2910cdfb43eca92617e9ce8b0cbfd050da6c7&rid=giphy.gif&ct=g" width="200" height="200"/> | <img src="https://media4.giphy.com/media/y9elD4gy1ToWRjrOrW/giphy.gif?cid=790b7611124ff40bc725b9f87d5563cf427f38458e933f37&rid=giphy.gif&ct=g" width="200" height="200"/>
-
 
 # Sup guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm a CS student at the University of Illinois at Chicago! #GoFlames
-<img src="https://media4.giphy.com/media/bB3FrjpQ3w8ms/giphy.gif?cid=790b7611b9f46330bdeb3db9cc09f05b65cf9a50ca352ce2&rid=giphy.gif&ct=g" align="right" width="40%"/>
+I'm a CS student at the University of Illinois at Chicago! #GoFlames 🔥
 <ul>
-<li> 👨🏾‍💻 Aspiring Android dev </li>
+<li> 👨🏾‍💻 Loves Android </li>
 <li> 🏞️ Loves the outdoors </li>
 <li> 🚲 Loves biking </li>
-<li> 🧖🏽‍♂️ Hot tub addict </li>
+<li> 🧗 Loves Rock Climbing </li>
+<li> 🧖🏽‍♂️ Loves Hot tubs </li>
 <li> 🕶️ Hates light mode </li>
 </ul>
 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Julius' GitHub Stats" />
  </a>
-
-<a href="https://github.com/rapterjet2004/rapterjet2004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapterjet2004&hide=java,html,tex&theme=gruvbox&langs_count=3" />
-</a>
-
-# Feeling a bit Fall-y🍁🌙🥧🍂☕️🕯
-<img src="https://media3.giphy.com/media/uChsbWOwuXvZS/giphy.gif?cid=ecf05e47rph10k6pjw8igakhmcouihus3sqs9oa91c6i800e&rid=giphy.gif&ct=g" width="100%"/>
 
 <!-- links to social media icons -->
 
