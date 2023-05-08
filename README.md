@@ -13,7 +13,7 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames 🔥
 </ul>
 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Julius' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Julius' GitHub Stats" />
  </a>
 
 <!-- links to social media icons -->
