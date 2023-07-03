@@ -8,7 +8,6 @@ I'm a CS student at the University of Illinois at Chicago! #GoFlames 🔥
 <li> 🏞️ Loves the outdoors </li>
 <li> 🚲 Loves biking </li>
 <li> 🧗 Loves Rock Climbing </li>
-<li> 🧖🏽‍♂️ Loves Hot tubs </li>
 <li> 🕶️ Hates light mode </li>
 </ul>
 
