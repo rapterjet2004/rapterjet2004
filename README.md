@@ -2,7 +2,7 @@
 
 
 # Hey guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm a CS student at the University of Illinois at Chicago! #GoFlames 🔥
+
 <ul>
 <li> 👨🏾‍💻 Loves Android </li>
 <li> 🏞️ Loves the outdoors </li>
