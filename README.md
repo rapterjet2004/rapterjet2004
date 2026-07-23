@@ -3,14 +3,6 @@
 
 # Hey guys, I'm Julius <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<ul>
-<li> 👨🏾‍💻 Loves Android </li>
-<li> 🏞️ Loves the outdoors </li>
-<li> 🚲 Loves biking </li>
-<li> 🧗 Loves Rock Climbing </li>
-<li> 🕶️ Hates light mode </li>
-</ul>
-
 <!-- 
 <a href="https://github.com/rapterjet2004/rapterjet2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rapterjet2004&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Julius' GitHub Stats" />
